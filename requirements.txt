@@ -1,0 +1,2 @@
+discord.py == 1.7.3
+TenGiphPy == 2.5.0
